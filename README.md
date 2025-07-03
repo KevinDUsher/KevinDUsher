@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello my name is Kevin Usher. I have been programming since I was around 14 years old. Currently I'm trying to learn more about web development, AI, and embedded programming.
+Most of my new stuff will probably be web development, then once I figure that I mastered the basics of that, I'll move on to AI.
 
 <!--
 **KevinDUsher/KevinDUsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
